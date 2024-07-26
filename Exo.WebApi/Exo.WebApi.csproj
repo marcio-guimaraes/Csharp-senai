@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/> <!-- Certifique-se de que esta versão é compatível com .NET 8.0 -->
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.0"/> <!-- Atualizado para versão compatível -->
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0"/> <!-- Atualizado para versão compatível -->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0"/> <!-- Atualizado para versão compatível -->
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0"/> <!-- Atualizado para versão compatível -->
+  </ItemGroup>
+</Project>

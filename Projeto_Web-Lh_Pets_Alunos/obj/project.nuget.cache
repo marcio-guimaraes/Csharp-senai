@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q+1coauVbnRAKM626MK+W1kdg6tcfBVRBXbSUXWHzktw9YrbtOAXrJmRpj2IOpSBNuuE9m8l3iR9+9iOUGlasA==",
+  "dgSpecHash": "EWjJn6w44xXYC1JVa/eX5RwB61DckSabIUz6nsJqkSFeRFoEGKXc0ZaBxkygHtN+FWT9f+alpNJnp40+rTaYpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcim\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+  "projectFilePath": "C:\\Users\\Marcim\\Desktop\\Marcin\\Senai\\mexendo com c#\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcim\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Marcim\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

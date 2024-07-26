@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcim\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+      "projectUniqueName": "C:\\Users\\Marcim\\Desktop\\Marcin\\Senai\\mexendo com c#\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
       "projectName": "Projeto_Web-Lh_Pets_Alunos",
-      "projectPath": "C:\\Users\\Marcim\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+      "projectPath": "C:\\Users\\Marcim\\Desktop\\Marcin\\Senai\\mexendo com c#\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
       "packagesPath": "C:\\Users\\Marcim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcim\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\obj\\",
+      "outputPath": "C:\\Users\\Marcim\\Desktop\\Marcin\\Senai\\mexendo com c#\\Projeto_Web-Lh_Pets_Alunos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcim\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -535,7 +535,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
